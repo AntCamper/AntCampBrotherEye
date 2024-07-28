@@ -39,3 +39,6 @@ The database consists of three tables:
 - Node.js
 - Inquirer.js
 - MySQL
+## Demo
+
+A video demonstration of this application can be found [here on Vimeo](https://vimeo.com/991161673?share=copy).
